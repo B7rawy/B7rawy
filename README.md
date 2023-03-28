@@ -48,7 +48,7 @@ The nature of my current work with my company team is to develop a system that h
 
 ##  Contacts Me
 <div align="center">
- <a href="https://twitter.com/Mohamed800803"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+ <a href="https://twitter.com/Kareemelb7rawy"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/B7rawy"><img alt="Twitter" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
@@ -56,7 +56,7 @@ The nature of my current work with my company team is to develop a system that h
 
  ##  Hire me from all over the world
 <div align="center">
- <a href="https://www.freelancer.com/u/reconnect176"><img alt="Twitter" src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></a>
+ <a href="https://www.upwork.com/freelancers/~01cf01e9e26337250c"><img alt="Twitter" src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></a>
 
 
 
