@@ -82,9 +82,6 @@ The nature of my current work with my company team is to develop a system that h
 
 
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/php-%230769AD.svg?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/laravel-%230769AD.svg?style=for-the-badge&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/react-%23092E20.svg?style=for-the-badge&logo=react&logoColor=white">
 
 
