@@ -4,13 +4,10 @@
 ## More about me
 
 
-I'm Dav
-SAP Functional Consultant
-Hey developers 👋
-Brief about me, I am a functional consultant/Fullstack developer, I have 2 years of experience working on a variety of projects.
-I have great ambition to further develop my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
-I know OOP, MVVM, and MVC principles to maintain user security and performance and develop clean code with teamwork.
+Hi, I'm Kareem Elbhrawy, a web developer programmer with 2 years of experience building and maintaining web applications. My expertise lies in full-stack development.
 
+My passion for web development comes from the ability to create solutions that solve real-world problems and improve the user experience. I'm a problem solver at heart and enjoy finding creative solutions to challenges that arise during the development process.
+ 
  Thank you for your interest and for reading my profile ... If you want to talk to me About something as much as I can do for you I'll be happy about it....good day/night
 
 
