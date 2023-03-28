@@ -14,6 +14,12 @@ I know OOP, MVVM, and MVC principles to maintain user security and performance a
  Thank you for your interest and for reading my profile ... If you want to talk to me About something as much as I can do for you I'll be happy about it....good day/night
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+
+
+
  ```kotlin
     
     
@@ -104,11 +110,6 @@ I know OOP, MVVM, and MVC principles to maintain user security and performance a
 
 
 
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
 
