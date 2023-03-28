@@ -7,11 +7,11 @@
 I'm Dav
 SAP Functional Consultant
 Hey developers 👋
-Brief about me, I am a functional consultant/Fullstack developer, I have 5 years of experience working on a variety of projects.
+Brief about me, I am a functional consultant/Fullstack developer, I have 2 years of experience working on a variety of projects.
 I have great ambition to further develop my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
-I have knowledge of OOP, MVVM, and MVC principles to maintain user security and performance, and develop clean code with teamwork.
+I know OOP, MVVM, and MVC principles to maintain user security and performance and develop clean code with teamwork.
 
-The nature of my current work with my company team is to develop a system that helps those who want to learn programming learn it easily. I am happy that I am doing a job that will help everyone in developing their work environment and moving the software industry in another cloud ... Thank you for your interest and reading my profile ... If you want to talk to me For something as much as I can do for you I'll be happy about it....good day/night
+ Thank you for your interest and for reading my profile ... If you want to talk to me About something as much as I can do for you I'll be happy about it....good day/night
 
 
  ```kotlin
