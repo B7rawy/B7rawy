@@ -58,7 +58,7 @@ I know OOP, MVVM, and MVC principles to maintain user security and performance a
 
  ##  Hire me from all over the world
 <div align="center">
- <a href="https://www.upwork.com/freelancers/~01cf01e9e26337250c"><img alt="Twitter" src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></a>
+ <a href="https://www.upwork.com/freelancers/~01cf01e9e26337250c"><img alt="Twitter" src="https://img.shields.io/badge/upwork-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></a>
 
 
 
