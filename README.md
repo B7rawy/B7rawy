@@ -107,7 +107,8 @@ The nature of my current work with my company team is to develop a system that h
 
 
 
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
 
