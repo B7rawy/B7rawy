@@ -27,7 +27,7 @@ My passion for web development comes from the ability to create solutions that s
             return "Web Developer / SAP Functional Consultant";
 
         }
-    
+     
     } 
 
     //* contact information *//
