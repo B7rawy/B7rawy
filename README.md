@@ -19,10 +19,12 @@ Over the past years I've shipped SaaS platforms, e-learning systems, e-commerce 
 
 ### What I work with
 
-**Frontend** — React · Next.js · TypeScript · Tailwind CSS · Framer Motion
-**Backend** — Node.js · NestJS · Express · PostgreSQL · Drizzle · Prisma · Supabase
-**AI** — OpenAI · Anthropic Claude · RAG pipelines · vector search · agent workflows
-**Infra** — Docker · Nginx · PM2 · Cloudflare R2 · VPS deployment · CI/CD
+| | |
+|---|---|
+| **Frontend** | React · Next.js · TypeScript · Tailwind CSS · Framer Motion |
+| **Backend** | Node.js · NestJS · Express · PostgreSQL · Drizzle · Prisma · Supabase |
+| **AI** | OpenAI · Anthropic Claude · RAG pipelines · vector search · agent workflows |
+| **Infra** | Docker · Nginx · PM2 · Cloudflare R2 · VPS deployment · CI/CD |
 
 ---
 
@@ -55,7 +57,7 @@ Over the past years I've shipped SaaS platforms, e-learning systems, e-commerce 
 
 <div align="center">
 
-**كريم البحراوي** — مطوّر Full-Stack ومتخصص في دمج الذكاء الاصطناعي، مقيم في القاهرة.
+**كريم البحراوي** — مطوّر Full-Stack ومتخصص في دمج الذكاء الاصطناعي، مقيم في القاهرة.<br>
 أبني منتجات رقمية متكاملة وأدمج الذكاء الاصطناعي في أنظمة إنتاجية حقيقية.
 
 🌐 <a href="https://kareemelbhrawy.com">kareemelbhrawy.com</a>
